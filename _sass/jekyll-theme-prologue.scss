@@ -256,6 +256,17 @@
 			}
 		}
 
+		&.avatar96 {
+			width: 96px;
+			height: 96px;
+			background: #f00;
+
+			img {
+				width: 96px;
+				height: 96px;
+			}
+		}
+
 		&.fit {
 			display: block;
 			width: 100%;
